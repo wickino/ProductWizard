@@ -1,0 +1,31 @@
+manufacturer,description,category
+Dell,Rack Server PowerEdge R750,Server
+Dell,Edge Gateway 3000 series,Gateway
+Dell,EMC Unity XT 380 Storage Array,Storage
+HPE,ProLiant DL380 Gen10,Server
+HPE,Aruba 2930F 24G Ethernet Switch,Switch
+HPE,Nimble Storage HF20,Storage
+Cisco,Catalyst 9300 Series Switch,Switch
+Cisco,ISR 4000 Series Router,Router
+Cisco,Firepower 1010 Firewall,Firewall
+Lenovo,ThinkSystem SR650 Rack Server,Server
+Lenovo,RackSwitch G8124E Switch,Switch
+MikroTik,CCR1009 Routerboard,Router
+Fortinet,FortiGate 100F Security Appliance,Firewall
+Fortinet,FortiSwitch 124E,Switch
+Palo Alto,PA-220 Next-Gen Firewall,Firewall
+Juniper,EX4300 Ethernet Switch,Switch
+Juniper,SRX300 Services Gateway,Gateway
+Supermicro,SuperServer 1029U-TR4 Rack Server,Server
+Ubiquiti,EdgeRouter 4,Router
+Netgate,SG-1100 Security Gateway,Firewall
+Arista,7050X Series Switch,Switch
+Arista,Cognitive Campus PoE Switch,Switch
+Synology,RackStation RS820+ NAS,Storage
+QNAP,TS-832XU-RP Storage Unit,Storage
+NetApp,AFF A220 All Flash Storage Array,Storage
+Huawei,CloudEngine S5735-L Ethernet Switch,Switch
+Huawei,FusionServer Pro 2288H V5 Rack Server,Server
+Extreme Networks,ExtremeSwitching X450-G2,Switch
+VMware,ESXi Hypervisor Server,Server
+IBM,System Storage DS8880,Storage

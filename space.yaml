@@ -1,0 +1,7 @@
+
+---
+
+### ⚡ **How to run immediately (in your terminal):**
+```bash
+bash setup.sh
+streamlit run app/main.py
